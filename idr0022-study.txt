@@ -66,7 +66,7 @@ Study Copyright	Koedoot et al.
 					
 Study Data Publisher	University of Dundee				
 					
-Study Data DOI					
+Study Data DOI	https://doi.org/10.17867/10000128					
 					
 					
 					
@@ -84,8 +84,10 @@ Comment[IDR Screen Name]	idr0022-koedoot-cellmigration/screenA
 					
 Screen Sample Type	cell				
 					
-Screen Data Publisher	University of Dundee				
-Screen Data DOI					
+Screen Data Publisher	University of Dundee	
+			
+Screen Data DOI	https://doi.org/10.17867/10000128a			
+		
 Screen Description	Primary RNAi screen using 4198 smartpool siRNAs to identify cell migratory regulators in Hs578T and MDA-MB-231 triple-negative breast cancer cells. 				
 					
 Screen Size	Plates: 	5D Images: 	Planes: 	Average Image Dimension (XYZCT): 	Total Tb: 
@@ -216,8 +218,10 @@ Comment[IDR Screen Name]	idr0022-koedoot-cellmigration/screenB
 					
 Screen Sample Type	cell				
 					
-Screen Data Publisher	University of Dundee				
-Screen Data DOI					
+Screen Data Publisher	University of Dundee	
+			
+Screen Data DOI	https://doi.org/10.17867/10000128b	
+			
 Screen Description	Validation RNAi screen using smartpool and single siRNAs to validate cell migratory regulators in Hs578T and MDA-MB-231 cells that were identified in the primary screen. 				
 					
 Screen Size	Plates: 	5D Images: 	Planes: 	Average Image Dimension (XYZCT): 	Total Tb: 
